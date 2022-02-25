@@ -41,5 +41,5 @@
  <p>Se você precisar de Cartão de Visita Virtual que é totalmente interativo, desenvolvido de forma personalizada, onde disponibiliza as suas informações de forma fácil, eficiente organizada no celular do seu cliente com apenas um Clique.
  <p> Convite Digital Interativo;
  <p> Sites e Blogs WordPress;
- <p>Sites HTML5, comletamente responsivo;
+ <p>Sites HTML5, completamente responsivo;
  <p> Artes para redes sociais, cartões de visita, folders etc, fale comigo https://bit.ly/JeanKrause
