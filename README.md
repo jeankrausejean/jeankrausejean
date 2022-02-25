@@ -32,7 +32,7 @@
   
   ##
 
-  <div align+"center">   
+  <div align="center">   
   <a href="https://bit.ly/JeanKrause" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a> 
   </div>
  
