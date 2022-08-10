@@ -44,4 +44,4 @@
  <p> Convite Digital Interativo;
  <p> Sites e Blogs WordPress;
  <p> Sites HTML5, completamente responsivo;
- <p> Artes para redes sociais, cartões de visita, folders etc, fale comigo https://bit.ly/JeanKrause
+ <p> Artes para redes sociais, cartões de visita, folders etc, fale comigo https://devjean.tech
