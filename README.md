@@ -40,8 +40,8 @@
   ##
   <div>
    <h3 align= "center">Serviços</h3>
- <p>Se você precisar de Cartão de Visita Virtual que é totalmente interativo, desenvolvido de forma personalizada, onde disponibiliza as suas informações de forma fácil, eficiente organizada no celular do seu cliente com apenas um Clique.
- <p> Convite Digital Interativo;
- <p> Sites e Blogs WordPress;
- <p> Sites HTML5, completamente responsivo;
- <p> Artes para redes sociais, cartões de visita, folders etc, fale comigo https://devjean.com.br
+ <p> ## Eu sou o Dev Jean Krause
+ <p> Sou um desenvolvedor WordPress que busca criar soluções personalizadas para seus projetos. 
+ <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
+ com total liberdade para você.
+ <p> Fale comigo https://devjean.com.br
