@@ -34,13 +34,13 @@
 
   <div align="center">   
    <h3>Portifolio - Fale comigo</h3>
-  <a href="https://bit.ly/JeanKrause" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a> 
+  <a href="https://bento.me/devjeankrause" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a> 
   </div>
  
   ##
   <div>
    <h3 align= "center">Serviços</h3>
- <p> ## Eu sou o Dev Jean Krause
+ <p><H3>Eu sou o Dev Jean Krause</H3> 
  <p> Sou um desenvolvedor WordPress que busca criar soluções personalizadas para seus projetos. 
  <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
  com total liberdade para você.
