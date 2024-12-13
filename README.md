@@ -1,11 +1,7 @@
 - 👋 Olá, eu sou o ***Dev Jean Krause***, gosto de trazer soluções aos problemas encontrados por meus clientes, parceiros e amigos.
 - 💻 Desenvolvedor WordPress e ferramentas Open Source.
 - 🏫 Soluções Personalizadas para o Seu Negócio.
- <div align="center">
-  <a href="https://github.com/jeankrausejean">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeankrausejean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,10 +35,18 @@
   <div>
    <h3 align= "center">Serviços</h3>
  <p><H3>Eu sou o Dev Jean Krause</H3> 
+
+<img align="center" width="240" src="https://devjean.com.br/wp-content/uploads/2024/12/logo_devjean_01.svg">
+
+
+##
+
+
  <p> Sou um desenvolvedor WordPress que busca criar soluções personalizadas para seus projetos. 
  <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
  com total liberdade para você.
  <p> Fale comigo https://devjean.com.br
+ </div>
 
-<img align="center" src="https://devjean.com.br/wp-content/uploads/2024/12/logo_devjean_01.svg">
+
 
