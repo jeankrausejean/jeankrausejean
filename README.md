@@ -43,3 +43,6 @@
  <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
  com total liberdade para você.
  <p> Fale comigo https://devjean.com.br
+
+<img align="center" src="https://devjean.com.br/wp-content/uploads/2024/12/logo_devjean_01.svg">
+
