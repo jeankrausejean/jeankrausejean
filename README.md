@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou o ***Jean Krause***, gosto de trazer soluções aos problemas encontrados por meus clientes, parceiros e amigos.
-- 💻 Estou em um período de transição de carreira, em uma jornada para se tornar um desenvolvedor FullStack.
-- 🏫 Cursando desenvolvedor Full Stack.
+- 👋 Olá, eu sou o ***Dev Jean Krause***, gosto de trazer soluções aos problemas encontrados por meus clientes, parceiros e amigos.
+- 💻 Desenvolvedor WordPress e ferramentas Open Source.
+- 🏫 Soluções Personalizadas para o Seu Negócio.
  <div align="center">
   <a href="https://github.com/jeankrausejean">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeankrausejean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,10 +12,8 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Jean-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Jean-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Jean-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Jean-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="Jean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Jean-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jean-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
   </div>
