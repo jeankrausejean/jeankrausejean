@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o ***Dev Jean Krause***, gosto de trazer soluções aos problemas encontrados por meus clientes, parceiros e amigos.
-- 💻 Desenvolvedor WordPress e ferramentas Open Source.
+- 💻 Desenvolvedor WordPress, Agentes de IA, Automações em n8n e ferramentas Open Source.
 - 🏫 Soluções Personalizadas para o Seu Negócio.
 
 
@@ -26,20 +26,12 @@
   <a href = "mailto:jeankrausejean@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeankrausejean" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
-  ##
-
-  <div align="center">   
-   <h3>Portifolio - Fale comigo</h3>
-  <a href="https://bento.me/devjean" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a> 
-  </div>
  
   ##
   <div>
-   <h3 align= "center">Serviços</h3>
  <p><H3>Eu sou o Dev Jean Krause</H3> 
 
-<img align="center" width="240" src="https://devjean.com.br/wp-content/uploads/2024/12/logo_devjean_01.svg">
+<img align="center" width="240" src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg">
 
 
 ##
