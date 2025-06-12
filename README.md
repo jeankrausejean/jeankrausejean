@@ -28,15 +28,15 @@
   </div>
  
   ##
-  <div>
+ <div align="center"> 
  <p><H3>Eu sou o Dev Jean Krause</H3> 
 
 <img align="center" width="240" src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg">
-
+</div>
 
 ##
 
-
+<div>
  <p> Sou um desenvolvedor WordPress que busca criar soluções personalizadas para seus projetos. 
  <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
  com total liberdade para você.
