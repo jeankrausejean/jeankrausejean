@@ -23,7 +23,7 @@
 
   <a href="https://github.com/jeankrausejean">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue&locale=pt-br"/>
 
   </div>
 
