@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor WordPress, Agentes de IA, Automações em n8n e ferramentas Open Source.
 - 🏫 Soluções Personalizadas para o Seu Negócio.
 
-
+---
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,8 +16,18 @@
   <img align="center" alt="Jean-Woo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg"> 
   <img align="center" alt="Jean-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
   </div>
-  
-  ##
+
+##
+
+  <div align="center">
+
+  <a href="https://github.com/jeankrausejean">
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue"/>
+
+  </div>
+
+  ---
  
   <div align="center"> 
   <h2>Minhas redes sociais</h2>
@@ -27,7 +37,8 @@
   <a href="https://www.linkedin.com/in/jeankrausejean" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
  
-  ##
+---
+  
  <div align="center"> 
  <p><H3>Eu sou o Dev Jean Krause</H3> 
 
