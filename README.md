@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg" alt="DevJean Logo" width="160"/>
+  <img src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg" alt="DevJean Logo" width="240"/>
 </div>
 
 # Olá, eu sou Jean Krause 👋
@@ -40,8 +40,3 @@ Moro em Joinville/SC e estou disponível para projetos remotos ou híbridos. Vam
 
 ---
 
-<div align="center">
-  <a href="https://github.com/jeankrausejean">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue&locale=pt-br"/>
-  </a>
-</div>
