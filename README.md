@@ -1,58 +1,47 @@
-- 👋 Olá, eu sou o ***Dev Jean Krause***, gosto de trazer soluções aos problemas encontrados por meus clientes, parceiros e amigos.
-- 💻 Desenvolvedor WordPress, Agentes de IA, Automações em n8n e ferramentas Open Source.
-- 🏫 Soluções Personalizadas para o Seu Negócio.
-
----
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jean-FileZila" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg"> 
-  <img align="center" alt="Jean-Portainer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg">
-  <img align="center" alt="Jean-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Jean-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Jean-Cpanel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpanel/cpanel-original.svg">
-  <img align="center" alt="Jean-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jean-Woo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg"> 
-  <img align="center" alt="Jean-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  </div>
-
-##
-
-  <div align="center">
-
-  <a href="https://github.com/jeankrausejean">
-
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue&locale=pt-br"/>
-
-  </div>
-
-  ---
- 
-  <div align="center"> 
-  <h2>Minhas redes sociais</h2>
-  <a href="https://instagram.com/jeankrausejean" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/devjeankrause" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeankrausejean@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeankrausejean" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
- 
----
-  
- <div align="center"> 
- <p><H3>Eu sou o Dev Jean Krause</H3> 
-
-<img align="center" width="240" src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg">
+<div align="center">
+  <img src="https://devjean.com.br/wp-content/uploads/2025/01/logo-devjean.svg" alt="DevJean Logo" width="160"/>
 </div>
 
-##
+# Olá, eu sou Jean Krause 👋
 
-<div>
- <p> Sou um desenvolvedor WordPress que busca criar soluções personalizadas para seus projetos. 
- <p>Trabalho com diversas ferramentas open source, entre elas ferramentas de CRM, Automação, Chatbot, API WhatsApp, Agendamento online e muito mais. Tudo isso sem assinaturas caras e 
- com total liberdade para você.
- <p> Fale comigo https://devjean.com.br
- </div>
+**Desenvolvedor Web | Especialista em Agentes de IA, Automações e WordPress**
 
+Com mais de 10 anos de experiência, atuo na intersecção entre tecnologia e negócios. Meu foco é criar soluções digitais que não sejam apenas funcionais, mas que gerem resultados reais, simplifiquem processos e aumentem a produtividade.
 
+## 🚀 O que eu faço
 
+Sou especialista no ecossistema WordPress, indo além do básico ao integrar interfaces web com Agentes de IA e fluxos de automação complexos.
+
+**Web:** WordPress Avançado, Elementor, HTML/CSS, Customização de Temas.
+
+**Automação & IA:** n8n, Chatwoot, Chatbots Inteligentes, Integração de APIs.
+
+**Infra:** Gestão de VPS, Linux, Configuração de Ambientes de Produção, SSL e DNS.
+
+Priorizo ferramentas Open Source e Low-code para conectar CRMs e plataformas de atendimento, eliminando tarefas manuais.
+
+## 💡 Meu Diferencial
+
+Antes do código, construí uma trajetória sólida em gestão e vendas. Essa vivência me deu uma visão orientada a negócios: entendo a dor do cliente, o fluxo de atendimento e o objetivo da venda antes de escrever a primeira linha de código.
+
+## 📫 Contato
+
+Moro em Joinville/SC e estou disponível para projetos remotos ou híbridos. Vamos conversar sobre como modernizar o seu negócio?
+
+🌐 **Portfólio:** [devjean.com.br](https://devjean.com.br/)
+
+📧 **Email:** contato@devjean.com.br
+
+📱 **WhatsApp:** [(47) 9 9730-1572](https://wa.me/5547997301572?text=Analisei%20seu%20curriculo)
+
+💼 **LinkedIn:** Jean Krause
+
+*Foco em soluções acessíveis, performance e resultados.*
+
+---
+
+<div align="center">
+  <a href="https://github.com/jeankrausejean">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankrausejean&layout=compact&langs_count=7&theme=shadow_blue&locale=pt-br"/>
+  </a>
+</div>
