@@ -34,7 +34,7 @@ Moro em Joinville/SC e estou disponível para projetos remotos ou híbridos. Vam
 
 📱 **WhatsApp:** [(47) 9 9730-1572](https://wa.me/5547997301572?text=Analisei%20seu%20curriculo)
 
-💼 **LinkedIn:** Jean Krause
+💼 **LinkedIn:** [jeankrausejean](https://www.linkedin.com/in/jeankrausejean/)
 
 *Foco em soluções acessíveis, performance e resultados.*
 
